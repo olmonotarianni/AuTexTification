@@ -6,12 +6,13 @@ Just consider that automatically generated text could show factual, grammatical,
 Written together with M. Rizzo, P. Stabile, E. Cortese. We approached the AuTexTification task (https://sites.google.com/view/autextification) as part of the NLP MS course in Politecnico di Milano with final evaluation 30L/30
 
 ## Linguistic Features
-- **Detailed Data Analysis**: Comprehensive data processing and exploration. We compute some **lexical and syntactic, features** as defined in the paper: https://aclanthology.org/W12-2019.pdf.We also define other useful features such as puntctuations percentage and ease of readability.
+- **Detailed Data Analysis**: Comprehensive data processing and exploration. We compute some **lexical and syntactic, features** as defined in the paper: https://aclanthology.org/W12-2019.pdf. We also define other useful features such as puntctuations percentage and ease of readability.
 - **Visualization**: Multiple visual representations to convey insights effectively. Including histograms, T-statistics and density plots on features.
 - **Reproducible Workflow**: Documented code with explanations for each step of our presentation in a python notebook. We include Dimensionality Reduction and Feature selection. Moreover, we describe the dataset through **vectorization** and **embedding analysis**.
 
 
 ![Distribution of some of the features between human and machine generated text.](images/dep_tags_distribution.png)
+
 ![Correlation Matrix between the features](images/dep_tags_correlation.png)
 
 ## ML Models
