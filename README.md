@@ -65,5 +65,3 @@ We would like to thank our professors and peers for their valuable support and f
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-![Sample Visualization](path/to/image.png)
